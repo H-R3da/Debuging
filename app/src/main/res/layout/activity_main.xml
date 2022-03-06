@@ -18,13 +18,12 @@
             android:id="@+id/dizzy"
             android:padding="50dp"
             android:translationX="100dp"
-
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="centerInside"
             android:src="@drawable/dizzydros_ic"
-
             />
+
         <ImageButton
             android:id="@+id/dizzy2"
             android:padding="50dp"
@@ -33,7 +32,6 @@
             android:layout_height="wrap_content"
             android:scaleType="centerInside"
             android:src="@drawable/dizzydros_ic"
-
             />
     </FrameLayout>
 
